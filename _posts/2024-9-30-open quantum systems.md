@@ -31,7 +31,7 @@ Matteo A. C. Rossi
 
 <li>
 <a href="https://matteoacrossi.github.io/oqs-jupyterbook/introduction.html">
-Open quantum systems
+Introduction to Open quantum systems
 </a></li>
 
 <li>
