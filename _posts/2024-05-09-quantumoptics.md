@@ -184,3 +184,81 @@ Simplified Topological Invariants for Interacting Insulators--Zhong Wang
 <a href="https://maggiexheuw.github.io/Group/L_H_Ryder_1980_J._Phys._A__Math._Gen._13_437.pdf">
 Dirac monopole from $S^3$ to $S^2$  -- Ryder
 </a></li>
+
+
+
+### Four dimensional quantum hall experiment
+
+
+
+<li>
+<a href="https://maggiexheuw.github.io/Note/Single Band Motion of Conduction Electrons in a
+Uniform Magnetic Field.pdf">
+Single Band Motion of Conduction Electrons in a
+Uniform Magnetic Field  -- Harper-1956
+</a></li>
+
+
+
+
+
+
+<li>
+<a href="https://maggiexheuw.github.io/Note/Hoftstadter.pdf">
+Energy levels and wave functions of Bloch electrons in rational and irrational
+Douglas
+Physics Department,
+magnetic fields  -- Hoftstadter-1976
+</a></li>
+
+
+
+<li>
+<a href="https://maggiexheuw.github.io/Note/PhysRevLett.111.226401 (1).pdf">
+Four-Dimensional Quantum Hall Effect in a Two-Dimensional Quasicrystal  -- Ozilberberg-2013
+</a></li>
+
+
+
+
+<li>
+<a href="https://maggiexheuw.github.io/Note/Four-Dimensional Quantum Hall Effect with Ultracold Atoms.pdf">
+Four-Dimensional Quantum Hall Effect with Ultracold Atoms  -- Ozilberberg-2015
+</a></li>
+
+
+<li>
+<a href="https://maggiexheuw.github.io/Note/A Thouless quantum pump with ultracold bosonic
+atoms in an optical superlattice.pdf">
+A Thouless quantum pump with ultracold bosonic
+atoms in an optical superlattice  -- Ozilberberg-2016
+</a></li>
+
+
+
+<li>
+<a href="https://maggiexheuw.github.io/Note/Photonic topological boundary pumping as a probe
+of 4D quantum Hall physics.pdf">
+Photonic topological boundary pumping as a probe
+of 4D quantum Hall physics -- Oded Zilberberg-2018
+</a></li>
+
+
+
+<li>
+<a href="https://maggiexheuw.github.io/Note/Six-dimensional quantum Hall effect and three-dimensional topological pumps.pdf">
+Six-dimensional quantum Hall effect and three-dimensional topological pumps -- Oded Zilberberg-2018
+</a></li>
+
+
+<li>
+<a href="https://maggiexheuw.github.io/Note/Electromagnetic response of quantum Hall systems in dimensions five and six and beyond.pdf">
+Electromagnetic response of quantum Hall systems in dimensions five and six and beyond -- Xiao Zhang-2018
+</a></li>
+
+
+
+<li>
+<a href="https://maggiexheuw.github.io/Note/PhysRevB.100.041110.pdf">
+Entangled four-dimensional multicomponent topological states from photonic crystal defects -- Xiao Zhang-2018
+</a></li>
